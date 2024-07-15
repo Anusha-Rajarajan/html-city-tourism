@@ -448,12 +448,11 @@
 
 ```
 ## Output
-
-![01](https://github.com/user-attachments/assets/169b5a56-da36-4fa6-97bd-6d0e0f792bf6)
-![02](https://github.com/user-attachments/assets/d3ff7637-a4d3-4698-9990-c6dfee9a6ffb)
-![03](https://github.com/user-attachments/assets/6117305a-cf00-44c1-a202-3c2f2f5b12cf)
-![04](https://github.com/user-attachments/assets/91ffa9c1-09f6-4680-a0ed-1b00551aeaf9)
-![05](https://github.com/user-attachments/assets/7a7c8ac0-f91b-4ed9-a9ac-f39bc5b053af)
+![output1](01.jpg)
+![output2](02.jpg)
+![output3](05.jpg) 
+![output4](004.jpg)
+![output5](03.jpg)
 
 
 
